@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @richard-swain
+- 🌱 I’m currently learning C#, LUA and JavaScript.
+- 💞️ I’m looking to collaborate on Paid Projects only.
+- 📫 How to reach me - You can reach me at hello@richythe.dev and i'll provide a prompt response when able.
